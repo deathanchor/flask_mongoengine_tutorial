@@ -8,3 +8,8 @@ It also includes some general intro in queries and how MongoDB works.
 
 MongoEngine resources: http://docs.mongoengine.org/
 This is documentation about the mongoengine package used in this tutorial.
+
+Now starting with Part IV:
+[Flask MongoEngine Tutorial](docs/flask-mongoengine-tutorial-part-iv-database.md)
+
+
